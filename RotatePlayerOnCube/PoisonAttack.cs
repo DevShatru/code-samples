@@ -1,6 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+// Copyright (C) All rights reserved. Shatrujit Kumar, 2022.
 
 // Parameters for poison attack
 public class Poison {

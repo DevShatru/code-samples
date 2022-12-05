@@ -1,4 +1,6 @@
-﻿public class CharacterMovement3D : CharacterMovement
+﻿// Copyright (C) All rights reserved. Shatrujit Kumar, 2022.
+
+public class CharacterMovement3D : CharacterMovement
 {
     public delegate void RotationDelegate(Quaternion rotation);
     public RotationDelegate Rotator;

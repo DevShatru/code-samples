@@ -1,3 +1,5 @@
+// Copyright (C) All rights reserved. Shatrujit Kumar, 2022.
+
 public class CameraRotator : MonoBehaviour
 {
     [Header("Rotation Settings")]
