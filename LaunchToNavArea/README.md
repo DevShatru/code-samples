@@ -4,6 +4,6 @@ Sample illustrating a catch-all AI task that executes when the unit is not on an
 <br/>
 
 ## Demo
-In the demo, the orange region represents the off-nav area. Our unit faiols to reach the nav area on it's first jump, but tries again after half a second and succeeds.
+In the demo, the orange region represents the off-nav area. Our unit fails to reach the nav area on it's first jump, but tries again after half a second and succeeds.
 <br/>
 ![Off Nav Jump Demo](./LaunchToNav-Demo.gif)
